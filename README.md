@@ -35,7 +35,7 @@ A high-performance, real-time campaign monitoring dashboard built for **Mixo Ads
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/safiyaRafi/campaign-monitoring.git
+   git clone https://github.com/msehtesham4628/campaign-monitoring.git
    cd campaign-monitoring
    ```
 
