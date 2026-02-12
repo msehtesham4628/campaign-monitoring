@@ -51,3 +51,4 @@ export interface InsightsResponse {
 export interface CampaignInsightsResponse {
   insights: CampaignInsights;
 }
+

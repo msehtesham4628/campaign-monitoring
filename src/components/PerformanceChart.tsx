@@ -55,3 +55,4 @@ export function PerformanceChart({ data, loading }: PerformanceChartProps) {
         </div>
     );
 }
+

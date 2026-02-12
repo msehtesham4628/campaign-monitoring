@@ -68,3 +68,4 @@ export async function fetchCampaignInsights(id: string): Promise<CampaignInsight
 export function getCampaignInsightsStream(id: string): string {
     return `${BASE_URL}/campaigns/${id}/insights/stream`;
 }
+

@@ -24,3 +24,4 @@ export function SummaryCard({ title, value, subtitle, trend, trendValue }: Summa
         </div>
     );
 }
+

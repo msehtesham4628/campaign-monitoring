@@ -63,3 +63,4 @@ export function CampaignList({ initialCampaigns }: CampaignListProps) {
         </div>
     );
 }
+

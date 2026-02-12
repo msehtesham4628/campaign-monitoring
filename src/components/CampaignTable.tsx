@@ -56,3 +56,4 @@ export function CampaignTable({ campaigns }: CampaignTableProps) {
         </div>
     );
 }
+

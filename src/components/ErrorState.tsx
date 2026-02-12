@@ -15,3 +15,4 @@ export function ErrorState({ message, onRetry }: { message: string, onRetry?: ()
         </div>
     );
 }
+
